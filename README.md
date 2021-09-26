@@ -4,13 +4,17 @@ https://cocky-jepsen-f38d3c.netlify.app/
 # Getting Started with Create React App
 
 This project was design bootstrap
+
 then i used fake json data
+
 this site work bigest people for helping poor people
 
 ## Available Scripts
 
 In the project directory, you can run:
+
 firstly you need to run this commnd: npm install
+
 and then npm start
 
 ### `npm start`
