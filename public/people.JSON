@@ -1,0 +1,122 @@
+[
+  {
+    "key": 1,
+    "name": "Xi Jinping",
+    "country": "China",
+    "age": 68,
+    "income": 356000000,
+    "img": "https://specials-images.forbesimg.com/imageserve/5aecccdf31358e612fb80afa/832x832.jpg?background=000000&cropX1=1234&cropX2=3554&cropY1=348&cropY2=2667"
+  },
+  {
+    "key": 2,
+    "name": "Vladimir Putin",
+    "country": "Russia",
+    "age": 69,
+    "income": 355000000,
+    "img": "https://specials-images.forbesimg.com/imageserve/5aecc9a84bbe6f748688434d/832x832.jpg?background=000000&cropX1=271&cropX2=1742&cropY1=321&cropY2=1791"
+  },
+  {
+    "key": 3,
+    "name": "Donald Trump",
+    "country": "United States",
+    "age": 75,
+    "income": 245000000,
+    "img": "https://specials-images.forbesimg.com/imageserve/5638e53de4b0ffa7afe6a26a/832x832.jpg?background=000000&cropX1=27&cropX2=731&cropY1=32&cropY2=736"
+  },
+  {
+    "key": 4,
+    "name": "Angela Merkel",
+    "country": "Germany",
+    "age": 67,
+    "income": 355000000,
+    "img": "https://specials-images.forbesimg.com/imageserve/5fce8861a3f1e6e4929e0577/832x832.jpg?background=000000&cropX1=463&cropX2=3998&cropY1=964&cropY2=4500"
+  },
+  {
+    "key": 5,
+    "name": "Jeff Bezos",
+    "country": "United States",
+    "age": 57,
+    "income": 365000000,
+    "img": "https://specials-images.forbesimg.com/imageserve/5bb22ae84bbe6f67d2e82e05/832x832.jpg?background=000000&cropX1=627&cropX2=1639&cropY1=129&cropY2=1142"
+  },
+  {
+    "key": 6,
+    "name": "Pope Francis",
+    "country": "Roman",
+    "age": 84,
+    "income": 556000000,
+    "img": "https://thumbor.forbes.com/thumbor/100x100/https://i.forbesimg.com/media/lists/people/pope-francis_416x416.jpg"
+  },
+  {
+    "key": 7,
+    "name": "Bill Gates",
+    "country": "United States",
+    "age": 64,
+    "income": 856000000,
+    "img": "https://specials-images.forbesimg.com/imageserve/5f4ebe0c87612dab4f12a597/832x832.jpg?background=000000&cropX1=292&cropX2=3684&cropY1=592&cropY2=3987"
+  },
+  {
+    "key": 8,
+    "name": "Mohammed bin Salman Al Saud",
+    "country": "Saudi Arabia",
+    "age": 36,
+    "income": 656000000,
+    "img": "https://specials-images.forbesimg.com/imageserve/5aeca7bfa7ea436b547c476b/832x832.jpg?background=000000&cropX1=782&cropX2=4433&cropY1=0&cropY2=3648"
+  },
+  {
+    "key": 9,
+    "name": "Narendra Modi",
+    "country": "India",
+    "age": 71,
+    "income": 456000000,
+    "img": "https://thumbor.forbes.com/thumbor/100x100/https://i.forbesimg.com/media/lists/people/narendra-modi_416x416.jpg"
+  },
+  {
+    "key": 10,
+    "name": "Larry Page",
+    "country": "Alphabet",
+    "age": 48,
+    "income": 357000000,
+    "img": "https://specials-images.forbesimg.com/imageserve/5c76bcaaa7ea43100043c836/832x832.jpg?background=000000&cropX1=227&cropX2=2022&cropY1=22&cropY2=1817"
+  },
+  {
+    "key": 11,
+    "name": "Jerome H. Powell",
+    "country": "United States",
+    "age": 68,
+    "income": 327000000,
+    "img": "https://specials-images.forbesimg.com/imageserve/5aeca99ca7ea436b547c4828/832x832.jpg?background=000000&cropX1=1034&cropX2=3651&cropY1=51&cropY2=2667"
+  },
+  {
+    "key": 12,
+    "name": "Emmanuel Macron",
+    "country": "France",
+    "age": 43,
+    "income": 447000000,
+    "img": "https://specials-images.forbesimg.com/imageserve/5aecab0231358e612fb80603/832x832.jpg?background=000000&cropX1=751&cropX2=3039&cropY1=721&cropY2=3010"
+  },
+  {
+    "key": 13,
+    "name": "Mark Zuckerberg",
+    "country": "London",
+    "age": 37,
+    "income": 647000000,
+    "img": "https://specials-images.forbesimg.com/imageserve/5c76b7d331358e35dd2773a9/832x832.jpg?background=000000&cropX1=0&cropX2=4401&cropY1=0&cropY2=4401"
+  },
+  {
+    "key": 14,
+    "name": "Theresa May",
+    "country": "United Kingdom",
+    "age": 64,
+    "income": 437000000,
+    "img": "https://specials-images.forbesimg.com/imageserve/59f5d442a7ea436b47b47db4/832x832.jpg?background=000000&cropX1=498&cropX2=1916&cropY1=74&cropY2=1493"
+  },
+  {
+    "key": 15,
+    "name": "Li Keqiang",
+    "country": "China",
+    "age": 66,
+    "income": 257000000,
+    "img": "https://thumbor.forbes.com/thumbor/100x100/https://i.forbesimg.com/media/lists/people/li-keqiang_416x416.jpg"
+  }
+]
